@@ -6,7 +6,8 @@ De eerste versie van het spel is gevalideerd door de spelcommissie en we hebben 
 
 - Het is nu niet echt mogelijk om het spel echt te spelen, want er is telkens maar 1 poging mogelijk. Dit gaan we uitbreiden zodat de speler meerdere pogingen heeft om de code te raden. Toon dit in de Windows titel in de vorm van "Poging x", waarbij x je huidige poging is.
 - Momenteel wordt de gegenereerde code in de windows titel getoond, maar dit kan niet zo blijven. Voorzie daarom een TextBox waarin je deze code toont. De TextBox mag enkel in debug-mode getoond worden (CTRL-F12).
-- Daarnaast moet je een timer voorzien die start van 1 en stopt bij 10. De timer start voor de eerste keer wanneer de code gegenereerd is, daarna telkens wanneer de speler een poging heeft gedaan (op de "Check code" knop heeft geklikt). De speler heeft dus 10 seconden tijd om een code in te geven. Wanneer dit niet binnen de tijd gebeurd verliest de speler automatisch een beurt.
+- Daarnaast moet je een timer voorzien die start van 1 en stopt bij 10. De timer start voor de eerste keer wanneer de code gegenereerd is, daarna telkens wanneer de speler een poging heeft gedaan (op de "Check code" knop heeft geklikt). De speler heeft dus 10 seconden tijd om een code in te geven.
+Wanneer dit niet binnen de tijd gebeurd verliest de speler automatisch een beurt.
 
 Gebruik de namen die voorzien zijn in de functionele vereisten, maar **zorg ervoor dat je de naming conventions hierop toepast**!
 
